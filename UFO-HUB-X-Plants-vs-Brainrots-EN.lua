@@ -1,1 +1,1 @@
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/UFO-HUB-X-Studio-Official/UFO-HUB-X-UI/refs/heads/main/UFO%20HUB%20X%20UI.lua"))()
