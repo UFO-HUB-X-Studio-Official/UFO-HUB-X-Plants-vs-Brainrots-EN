@@ -1,4 +1,4 @@
-local Library = loadstring(game:HttpGet("https://github.com/UFO-HUB-X-Studio-Official/UFO-HUB-X-Plants-vs-Brainrots-EN/blob/main/UFO-HUB-X-Plants-vs-Brainrots-EN.lua"))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/UFO-HUB-X-Studio-Official/UFO-HUB-X-UI/refs/heads/main/UFO%20HUB%20X%20UI.lua"))()
 -- ตัวอย่างสร้าง 4 แท็บ
 local t1 = Window:NewTab("หน้าหลัก")
 local t2 = Window:NewTab("ฟาร์ม")
